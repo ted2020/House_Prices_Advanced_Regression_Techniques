@@ -3,6 +3,8 @@
 
 ## Model Selection - Machine Learning Project
 
+#### Fixing missing values
+#### EDA
 #### OLS model
 #### Ridge and Lasso
 #### randomforest
